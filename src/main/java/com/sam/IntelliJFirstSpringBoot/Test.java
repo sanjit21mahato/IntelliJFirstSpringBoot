@@ -3,14 +3,14 @@ package com.sam.IntelliJFirstSpringBoot;
 
 public class Test {
 
-    private String testin;
+    private String testing;
 
-    public String getTestin() {
-        return testin;
+    public String getTesting() {
+        return testing;
     }
 
-    public void setTestin(String testin) {
-        this.testin = testin;
+    public void setTesting(String testing) {
+        this.testing = testing;
     }
 
     @Override
