@@ -13,5 +13,8 @@ public class Test {
         this.testing = testing;
     }
 
-
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
